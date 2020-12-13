@@ -18,11 +18,12 @@ Sou desenvolvedor mobile
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-C83C76?style=flat-square&logo=intellij-idea&logoColor=white)
-![Alexa](https://img.shields.io/badge/-AmazonAlexa-blue?style=flat-square&logo=amazon-alexa-idea&logoColor=white)
+![Alexa](https://img.shields.io/badge/-AmazonAlexa-blue?style=flat-square&logo=amazon-alexa&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### ▼ Interrese
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 ![Ios](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=ios&logoColor=white)
-![Flutter](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-0085D1?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
