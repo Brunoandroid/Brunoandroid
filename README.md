@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/bruno-freitas-b4491a138/)
 [![Outlook Badge](https://img.shields.io/badge/-null96@outlook.com-white?style=flat-square&logo=Gmail&logoColor=blue)](mailto:null96@outlook.com)
 
-### Bem vindo ao meu repositório. Alguns projetos que realizo para fins pessoais e de estudos estão na plataforma.
+### Bem vindo ao meu repositório. Alguns projetos que realizo para fim pessoal e de estudo estão na plataforma.
 
 ### ► Sobre mim
 
