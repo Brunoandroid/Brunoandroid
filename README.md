@@ -7,7 +7,7 @@
 
 ### ► Sobre mim
 
-Sou desenvolvedor mobile, comecei no mundo dos aplicativos logo no início da graduação do curso de Ciência da Computação onde tive a oportunidade de conhecer e me apaixonar por este mundo. Meu Hobby é ouvir podcasts de tecnologia, e esta sempre atualizado no que esta acontecendo no cenário mobile e do empreendedorismo, área esta que acredito ser de grande importância principalmente por conta das Startups.
+Sou desenvolvedor mobile, comecei no mundo dos aplicativos logo no início da graduação do curso de Ciência da Computação onde tive a oportunidade de conhecer e me apaixonar por este mundo. Meu Hobby é ouvir podcasts de tecnologia e esta sempre atualizado no que esta acontecendo no cenário mobile e do empreendedorismo, área esta que acredito ser de grande importância principalmente por conta das Startups.
 
 ### ◍ Conhecimento em
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
