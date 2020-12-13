@@ -12,3 +12,15 @@ Sou desenvolvedor mobile
 ### ◍ Conhecimento em
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-C83C76?style=flat-square&logo=intellij-idea&logoColor=white)
+![IntellijIDEA](https://img.shields.io/badge/-AmazonAlexa-blue?style=flat-square&logo=-idea&logoColor=white)
+
+### ▼ Interrese
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Swift-316AE0?style=flat-square&logo=ios&logoColor=white)
