@@ -21,6 +21,7 @@ Sou desenvolvedor mobile, comecei no mundo dos aplicativos logo no início da gr
 ![Alexa](https://img.shields.io/badge/-AmazonAlexa-blue?style=flat-square&logo=amazon-alexa&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-orange?style=flat-square&logo=oracle&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 
 ### ▼ Interrese
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
