@@ -7,7 +7,7 @@
 
 ### ► Sobre mim
 
-Sou desenvolvedor mobile
+Sou desenvolvedor mobile, comecei no mundo dos aplicativos logo no inicio da graduação do curso de Ciência da Computação, onde tive a oportunidade de conhecer e me apaixonar por este mundo.
 
 ### ◍ Conhecimento em
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
