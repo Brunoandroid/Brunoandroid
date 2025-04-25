@@ -11,6 +11,7 @@ Sou desenvolvedor mobile, comecei no mundo dos aplicativos logo no início da gr
 
 ### ◍ Conhecimento em
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-0085D1?style=flat-square&logo=flutter&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
@@ -27,5 +28,4 @@ Sou desenvolvedor mobile, comecei no mundo dos aplicativos logo no início da gr
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 ![Ios](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=ios&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-0085D1?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
